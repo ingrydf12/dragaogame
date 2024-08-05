@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_estados_player",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_estados_player",
+  "parent":{
+    "name":"PLAYER",
+    "path":"folders/Scripts/PLAYER.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

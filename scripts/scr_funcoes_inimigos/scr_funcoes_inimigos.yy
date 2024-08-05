@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_funcoes_inimigos",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_funcoes_inimigos",
+  "parent":{
+    "name":"INIMIGOS",
+    "path":"folders/Scripts/INIMIGOS.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
